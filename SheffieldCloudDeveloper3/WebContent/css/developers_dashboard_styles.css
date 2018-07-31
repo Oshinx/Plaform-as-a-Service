@@ -1,0 +1,54 @@
+body{
+ 
+}
+
+.navbar{
+    margin-bottom: 0;
+    border-radius: 0;
+    padding: 1% 0;
+    border: 0;
+}
+
+.col-1{
+    background-color: black;
+
+}
+
+.col-main{
+ border: 2px solid black;
+  padding: 5px;
+  border-radius: 8px;
+  margin: 4%
+}
+.col-main1{
+
+  padding: 5px;
+
+  margin: 4%
+}
+.col-main h1{
+    text-align: center;
+      
+}
+
+
+
+.below-btn{
+    width: 100px;
+}
+
+.col-main form{
+    padding: 5px;
+    margin: 4%;
+}
+
+  .carousel-caption {
+    top: 30%;
+      }
+   .btn{
+     font-size: 1.2em;
+     color: #FFF;
+     padding: 12px 22px;
+     background: #4169e1;
+     border: 2px solid #FFF;
+   }
